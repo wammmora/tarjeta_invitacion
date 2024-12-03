@@ -183,29 +183,7 @@ h2, h3, p {
 }
 
 
-@media (max-width: 768px) {
-    .card {
-        width: 90%;
-        margin: 10px;
-        padding: 15px;
-    }
 
-    h1 {
-        font-size: 40px;
-    }
-
-    .subtitulo {
-        font-size: 1rem;
-    }
-
-    .imagen-pareja img {
-        width: 100px;
-    }
-
-    .vestimenta-icons img {
-        width: 60px;
-    }
-}
 /* Estilo para el contenedor del mapa */
 .map-container {
     display: flex;
